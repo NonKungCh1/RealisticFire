@@ -1,5 +1,5 @@
 
-package com.nonkungh.realisticfire;
+package com.nonkungch.realisticfire;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
